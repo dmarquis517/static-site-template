@@ -1,0 +1,25 @@
+{
+  "name": "static-site-template",
+  "version": "1.0.0",
+  "description": "Template repo for static sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmarquis517/static-site-template.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Dan Marquis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmarquis517/static-site-template/issues"
+  },
+  "homepage": "https://github.com/dmarquis517/static-site-template#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
