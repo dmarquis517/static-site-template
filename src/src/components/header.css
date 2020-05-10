@@ -1,0 +1,16 @@
+.header {
+    background: gray;
+    margin-bottom: 1.5em;
+    padding: .5em 0;
+}
+
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.nav-link {
+    margin: 0 1em;
+}
